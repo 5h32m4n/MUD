@@ -1,2 +1,3 @@
-This is the app for the 3rd chapter in the Ruby Rails tutorial.
-This was created by Matthew Sherman.
+This is a placeholder for the MUD project.
+
+This project was created by Matthew Sherman, Sean Snell, Michael Hernandez, Qi Chen, and Lan Ngo.
